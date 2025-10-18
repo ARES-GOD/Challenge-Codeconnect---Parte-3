@@ -1,12 +1,14 @@
 <h1 align="center">  Challenge-Codeconnect </h1>
 
-Challenge de Alura cuyo objetivo es crear una red social para compartir proyectos, similar a GitHub. En la primera entrega, se enfocarán en:
+Challenge de Alura cuyo objetivo es crear una red social para compartir proyectos, similar a GitHub. En este proyecto, se enfocarán las funcionalidades en:
 
-- Pantalla de inicio de sesión (con campos para correo electrónico y contraseña, y desafío opcional de inicio de sesión con GitHub y Gmail).
+- Pantalla de inicio de sesión (con campos para correo electrónico y contraseña).
 - Pantalla de registro (con campos para nombre, correo electrónico y contraseña con validaciones).
 - Página de *feed* (donde se exhibirán los proyectos).
 - Menú con botones para publicar, *feed*, perfil, sobre nosotros y salir.
 - Página "sobre nosotros" (con información institucional sobre la red social).
+- Página "Perfil" para visualizar la información del usuario y proyectos vinculados
+- Página "Publicar" donde se validan los campos y se crea un nuevo proyecto en firebase (Se guarda la imagen como URL directa en vez de usar Storage de Firebase) 
 
 ## :hammer:Funcionalidades del proyecto
 
@@ -57,6 +59,14 @@ Challenge de Alura cuyo objetivo es crear una red social para compartir proyecto
 -  `Funcionalidad 10`: Vista de perfil de usuario
 
 <img width="1043" height="742" alt="image" src="https://github.com/user-attachments/assets/b4190dc7-b0d8-463f-b64a-be6dcf68c491" />
+
+-  `Funcionalidad 11`: Pagina de publicar
+
+<img width="1024" height="568" alt="image" src="https://github.com/user-attachments/assets/07c29acf-4d30-41e4-a6c3-db2c8ee020fa" />
+
+---
+
+<img width="986" height="742" alt="image" src="https://github.com/user-attachments/assets/2f78023d-f5c1-49e7-b40e-6f53f1f6c1ff" />
 
 
 
